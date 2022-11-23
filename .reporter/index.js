@@ -1,4 +1,4 @@
-const gitRemoteOriginUrl = require("git-remote-origin-url");
+const gitRemoteOriginUrl1 = require("git-remote-origin-url");
 const GitUrlParse = require("git-url-parse");
 const fs = require('fs');
 const os = require('os');
